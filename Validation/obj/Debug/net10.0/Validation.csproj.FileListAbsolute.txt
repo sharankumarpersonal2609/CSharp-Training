@@ -1,0 +1,14 @@
+C:\Users\sdilli589\Downloads\ConsoleApp1\Validation\bin\Debug\net10.0\Validation.exe
+C:\Users\sdilli589\Downloads\ConsoleApp1\Validation\bin\Debug\net10.0\Validation.deps.json
+C:\Users\sdilli589\Downloads\ConsoleApp1\Validation\bin\Debug\net10.0\Validation.runtimeconfig.json
+C:\Users\sdilli589\Downloads\ConsoleApp1\Validation\bin\Debug\net10.0\Validation.dll
+C:\Users\sdilli589\Downloads\ConsoleApp1\Validation\bin\Debug\net10.0\Validation.pdb
+C:\Users\sdilli589\Downloads\ConsoleApp1\Validation\obj\Debug\net10.0\Validation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sdilli589\Downloads\ConsoleApp1\Validation\obj\Debug\net10.0\Validation.AssemblyInfoInputs.cache
+C:\Users\sdilli589\Downloads\ConsoleApp1\Validation\obj\Debug\net10.0\Validation.AssemblyInfo.cs
+C:\Users\sdilli589\Downloads\ConsoleApp1\Validation\obj\Debug\net10.0\Validation.csproj.CoreCompileInputs.cache
+C:\Users\sdilli589\Downloads\ConsoleApp1\Validation\obj\Debug\net10.0\Validation.dll
+C:\Users\sdilli589\Downloads\ConsoleApp1\Validation\obj\Debug\net10.0\refint\Validation.dll
+C:\Users\sdilli589\Downloads\ConsoleApp1\Validation\obj\Debug\net10.0\Validation.pdb
+C:\Users\sdilli589\Downloads\ConsoleApp1\Validation\obj\Debug\net10.0\Validation.genruntimeconfig.cache
+C:\Users\sdilli589\Downloads\ConsoleApp1\Validation\obj\Debug\net10.0\ref\Validation.dll

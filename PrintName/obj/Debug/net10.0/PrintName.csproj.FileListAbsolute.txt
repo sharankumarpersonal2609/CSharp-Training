@@ -1,0 +1,14 @@
+C:\Users\sdilli589\Downloads\ConsoleApp1\PrintName\bin\Debug\net10.0\PrintName.exe
+C:\Users\sdilli589\Downloads\ConsoleApp1\PrintName\bin\Debug\net10.0\PrintName.deps.json
+C:\Users\sdilli589\Downloads\ConsoleApp1\PrintName\bin\Debug\net10.0\PrintName.runtimeconfig.json
+C:\Users\sdilli589\Downloads\ConsoleApp1\PrintName\bin\Debug\net10.0\PrintName.dll
+C:\Users\sdilli589\Downloads\ConsoleApp1\PrintName\bin\Debug\net10.0\PrintName.pdb
+C:\Users\sdilli589\Downloads\ConsoleApp1\PrintName\obj\Debug\net10.0\PrintName.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sdilli589\Downloads\ConsoleApp1\PrintName\obj\Debug\net10.0\PrintName.AssemblyInfoInputs.cache
+C:\Users\sdilli589\Downloads\ConsoleApp1\PrintName\obj\Debug\net10.0\PrintName.AssemblyInfo.cs
+C:\Users\sdilli589\Downloads\ConsoleApp1\PrintName\obj\Debug\net10.0\PrintName.csproj.CoreCompileInputs.cache
+C:\Users\sdilli589\Downloads\ConsoleApp1\PrintName\obj\Debug\net10.0\PrintName.dll
+C:\Users\sdilli589\Downloads\ConsoleApp1\PrintName\obj\Debug\net10.0\refint\PrintName.dll
+C:\Users\sdilli589\Downloads\ConsoleApp1\PrintName\obj\Debug\net10.0\PrintName.pdb
+C:\Users\sdilli589\Downloads\ConsoleApp1\PrintName\obj\Debug\net10.0\PrintName.genruntimeconfig.cache
+C:\Users\sdilli589\Downloads\ConsoleApp1\PrintName\obj\Debug\net10.0\ref\PrintName.dll

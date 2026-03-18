@@ -1,0 +1,14 @@
+C:\Users\sdilli589\Downloads\ConsoleApp1\Admission_Eligibility\bin\Debug\net10.0\Admission_Eligibility.exe
+C:\Users\sdilli589\Downloads\ConsoleApp1\Admission_Eligibility\bin\Debug\net10.0\Admission_Eligibility.deps.json
+C:\Users\sdilli589\Downloads\ConsoleApp1\Admission_Eligibility\bin\Debug\net10.0\Admission_Eligibility.runtimeconfig.json
+C:\Users\sdilli589\Downloads\ConsoleApp1\Admission_Eligibility\bin\Debug\net10.0\Admission_Eligibility.dll
+C:\Users\sdilli589\Downloads\ConsoleApp1\Admission_Eligibility\bin\Debug\net10.0\Admission_Eligibility.pdb
+C:\Users\sdilli589\Downloads\ConsoleApp1\Admission_Eligibility\obj\Debug\net10.0\Admission_Eligibility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sdilli589\Downloads\ConsoleApp1\Admission_Eligibility\obj\Debug\net10.0\Admission_Eligibility.AssemblyInfoInputs.cache
+C:\Users\sdilli589\Downloads\ConsoleApp1\Admission_Eligibility\obj\Debug\net10.0\Admission_Eligibility.AssemblyInfo.cs
+C:\Users\sdilli589\Downloads\ConsoleApp1\Admission_Eligibility\obj\Debug\net10.0\Admission_Eligibility.csproj.CoreCompileInputs.cache
+C:\Users\sdilli589\Downloads\ConsoleApp1\Admission_Eligibility\obj\Debug\net10.0\Admission_Eligibility.dll
+C:\Users\sdilli589\Downloads\ConsoleApp1\Admission_Eligibility\obj\Debug\net10.0\refint\Admission_Eligibility.dll
+C:\Users\sdilli589\Downloads\ConsoleApp1\Admission_Eligibility\obj\Debug\net10.0\Admission_Eligibility.pdb
+C:\Users\sdilli589\Downloads\ConsoleApp1\Admission_Eligibility\obj\Debug\net10.0\Admission_Eligibility.genruntimeconfig.cache
+C:\Users\sdilli589\Downloads\ConsoleApp1\Admission_Eligibility\obj\Debug\net10.0\ref\Admission_Eligibility.dll

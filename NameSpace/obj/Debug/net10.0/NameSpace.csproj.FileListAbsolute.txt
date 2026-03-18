@@ -1,0 +1,14 @@
+C:\Users\sdilli589\Downloads\ConsoleApp1\NameSpace\bin\Debug\net10.0\NameSpace.exe
+C:\Users\sdilli589\Downloads\ConsoleApp1\NameSpace\bin\Debug\net10.0\NameSpace.deps.json
+C:\Users\sdilli589\Downloads\ConsoleApp1\NameSpace\bin\Debug\net10.0\NameSpace.runtimeconfig.json
+C:\Users\sdilli589\Downloads\ConsoleApp1\NameSpace\bin\Debug\net10.0\NameSpace.dll
+C:\Users\sdilli589\Downloads\ConsoleApp1\NameSpace\bin\Debug\net10.0\NameSpace.pdb
+C:\Users\sdilli589\Downloads\ConsoleApp1\NameSpace\obj\Debug\net10.0\NameSpace.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sdilli589\Downloads\ConsoleApp1\NameSpace\obj\Debug\net10.0\NameSpace.AssemblyInfoInputs.cache
+C:\Users\sdilli589\Downloads\ConsoleApp1\NameSpace\obj\Debug\net10.0\NameSpace.AssemblyInfo.cs
+C:\Users\sdilli589\Downloads\ConsoleApp1\NameSpace\obj\Debug\net10.0\NameSpace.csproj.CoreCompileInputs.cache
+C:\Users\sdilli589\Downloads\ConsoleApp1\NameSpace\obj\Debug\net10.0\NameSpace.dll
+C:\Users\sdilli589\Downloads\ConsoleApp1\NameSpace\obj\Debug\net10.0\refint\NameSpace.dll
+C:\Users\sdilli589\Downloads\ConsoleApp1\NameSpace\obj\Debug\net10.0\NameSpace.pdb
+C:\Users\sdilli589\Downloads\ConsoleApp1\NameSpace\obj\Debug\net10.0\NameSpace.genruntimeconfig.cache
+C:\Users\sdilli589\Downloads\ConsoleApp1\NameSpace\obj\Debug\net10.0\ref\NameSpace.dll

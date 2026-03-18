@@ -1,0 +1,14 @@
+C:\Users\sdilli589\Downloads\ConsoleApp1\Largestoftwo\bin\Debug\net10.0\Largestoftwo.exe
+C:\Users\sdilli589\Downloads\ConsoleApp1\Largestoftwo\bin\Debug\net10.0\Largestoftwo.deps.json
+C:\Users\sdilli589\Downloads\ConsoleApp1\Largestoftwo\bin\Debug\net10.0\Largestoftwo.runtimeconfig.json
+C:\Users\sdilli589\Downloads\ConsoleApp1\Largestoftwo\bin\Debug\net10.0\Largestoftwo.dll
+C:\Users\sdilli589\Downloads\ConsoleApp1\Largestoftwo\bin\Debug\net10.0\Largestoftwo.pdb
+C:\Users\sdilli589\Downloads\ConsoleApp1\Largestoftwo\obj\Debug\net10.0\Largestoftwo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sdilli589\Downloads\ConsoleApp1\Largestoftwo\obj\Debug\net10.0\Largestoftwo.AssemblyInfoInputs.cache
+C:\Users\sdilli589\Downloads\ConsoleApp1\Largestoftwo\obj\Debug\net10.0\Largestoftwo.AssemblyInfo.cs
+C:\Users\sdilli589\Downloads\ConsoleApp1\Largestoftwo\obj\Debug\net10.0\Largestoftwo.csproj.CoreCompileInputs.cache
+C:\Users\sdilli589\Downloads\ConsoleApp1\Largestoftwo\obj\Debug\net10.0\Largestoftwo.dll
+C:\Users\sdilli589\Downloads\ConsoleApp1\Largestoftwo\obj\Debug\net10.0\refint\Largestoftwo.dll
+C:\Users\sdilli589\Downloads\ConsoleApp1\Largestoftwo\obj\Debug\net10.0\Largestoftwo.pdb
+C:\Users\sdilli589\Downloads\ConsoleApp1\Largestoftwo\obj\Debug\net10.0\Largestoftwo.genruntimeconfig.cache
+C:\Users\sdilli589\Downloads\ConsoleApp1\Largestoftwo\obj\Debug\net10.0\ref\Largestoftwo.dll

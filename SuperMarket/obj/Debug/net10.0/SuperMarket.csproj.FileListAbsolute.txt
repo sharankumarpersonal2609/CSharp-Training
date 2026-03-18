@@ -1,0 +1,14 @@
+C:\Users\sdilli589\Downloads\ConsoleApp1\SuperMarket\bin\Debug\net10.0\SuperMarket.exe
+C:\Users\sdilli589\Downloads\ConsoleApp1\SuperMarket\bin\Debug\net10.0\SuperMarket.deps.json
+C:\Users\sdilli589\Downloads\ConsoleApp1\SuperMarket\bin\Debug\net10.0\SuperMarket.runtimeconfig.json
+C:\Users\sdilli589\Downloads\ConsoleApp1\SuperMarket\bin\Debug\net10.0\SuperMarket.dll
+C:\Users\sdilli589\Downloads\ConsoleApp1\SuperMarket\bin\Debug\net10.0\SuperMarket.pdb
+C:\Users\sdilli589\Downloads\ConsoleApp1\SuperMarket\obj\Debug\net10.0\SuperMarket.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sdilli589\Downloads\ConsoleApp1\SuperMarket\obj\Debug\net10.0\SuperMarket.AssemblyInfoInputs.cache
+C:\Users\sdilli589\Downloads\ConsoleApp1\SuperMarket\obj\Debug\net10.0\SuperMarket.AssemblyInfo.cs
+C:\Users\sdilli589\Downloads\ConsoleApp1\SuperMarket\obj\Debug\net10.0\SuperMarket.csproj.CoreCompileInputs.cache
+C:\Users\sdilli589\Downloads\ConsoleApp1\SuperMarket\obj\Debug\net10.0\SuperMarket.dll
+C:\Users\sdilli589\Downloads\ConsoleApp1\SuperMarket\obj\Debug\net10.0\refint\SuperMarket.dll
+C:\Users\sdilli589\Downloads\ConsoleApp1\SuperMarket\obj\Debug\net10.0\SuperMarket.pdb
+C:\Users\sdilli589\Downloads\ConsoleApp1\SuperMarket\obj\Debug\net10.0\SuperMarket.genruntimeconfig.cache
+C:\Users\sdilli589\Downloads\ConsoleApp1\SuperMarket\obj\Debug\net10.0\ref\SuperMarket.dll

@@ -1,0 +1,14 @@
+C:\Users\sdilli589\Downloads\ConsoleApp1\Boolean\obj\Debug\net10.0\Boolean.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sdilli589\Downloads\ConsoleApp1\Boolean\obj\Debug\net10.0\Boolean.AssemblyInfoInputs.cache
+C:\Users\sdilli589\Downloads\ConsoleApp1\Boolean\obj\Debug\net10.0\Boolean.AssemblyInfo.cs
+C:\Users\sdilli589\Downloads\ConsoleApp1\Boolean\obj\Debug\net10.0\Boolean.csproj.CoreCompileInputs.cache
+C:\Users\sdilli589\Downloads\ConsoleApp1\Boolean\bin\Debug\net10.0\Boolean.exe
+C:\Users\sdilli589\Downloads\ConsoleApp1\Boolean\bin\Debug\net10.0\Boolean.deps.json
+C:\Users\sdilli589\Downloads\ConsoleApp1\Boolean\bin\Debug\net10.0\Boolean.runtimeconfig.json
+C:\Users\sdilli589\Downloads\ConsoleApp1\Boolean\bin\Debug\net10.0\Boolean.dll
+C:\Users\sdilli589\Downloads\ConsoleApp1\Boolean\bin\Debug\net10.0\Boolean.pdb
+C:\Users\sdilli589\Downloads\ConsoleApp1\Boolean\obj\Debug\net10.0\Boolean.dll
+C:\Users\sdilli589\Downloads\ConsoleApp1\Boolean\obj\Debug\net10.0\refint\Boolean.dll
+C:\Users\sdilli589\Downloads\ConsoleApp1\Boolean\obj\Debug\net10.0\Boolean.pdb
+C:\Users\sdilli589\Downloads\ConsoleApp1\Boolean\obj\Debug\net10.0\Boolean.genruntimeconfig.cache
+C:\Users\sdilli589\Downloads\ConsoleApp1\Boolean\obj\Debug\net10.0\ref\Boolean.dll
