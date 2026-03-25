@@ -1,0 +1,15 @@
+C:\Users\sdilli589\Downloads\ConsoleApp1\OOPS\bin\Debug\net10.0\OOPS.exe
+C:\Users\sdilli589\Downloads\ConsoleApp1\OOPS\bin\Debug\net10.0\OOPS.deps.json
+C:\Users\sdilli589\Downloads\ConsoleApp1\OOPS\bin\Debug\net10.0\OOPS.runtimeconfig.json
+C:\Users\sdilli589\Downloads\ConsoleApp1\OOPS\bin\Debug\net10.0\OOPS.dll
+C:\Users\sdilli589\Downloads\ConsoleApp1\OOPS\bin\Debug\net10.0\OOPS.pdb
+C:\Users\sdilli589\Downloads\ConsoleApp1\OOPS\obj\Debug\net10.0\OOPS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sdilli589\Downloads\ConsoleApp1\OOPS\obj\Debug\net10.0\OOPS.AssemblyInfoInputs.cache
+C:\Users\sdilli589\Downloads\ConsoleApp1\OOPS\obj\Debug\net10.0\OOPS.AssemblyInfo.cs
+C:\Users\sdilli589\Downloads\ConsoleApp1\OOPS\obj\Debug\net10.0\OOPS.csproj.CoreCompileInputs.cache
+C:\Users\sdilli589\Downloads\ConsoleApp1\OOPS\obj\Debug\net10.0\OOPS.sourcelink.json
+C:\Users\sdilli589\Downloads\ConsoleApp1\OOPS\obj\Debug\net10.0\OOPS.dll
+C:\Users\sdilli589\Downloads\ConsoleApp1\OOPS\obj\Debug\net10.0\refint\OOPS.dll
+C:\Users\sdilli589\Downloads\ConsoleApp1\OOPS\obj\Debug\net10.0\OOPS.pdb
+C:\Users\sdilli589\Downloads\ConsoleApp1\OOPS\obj\Debug\net10.0\OOPS.genruntimeconfig.cache
+C:\Users\sdilli589\Downloads\ConsoleApp1\OOPS\obj\Debug\net10.0\ref\OOPS.dll

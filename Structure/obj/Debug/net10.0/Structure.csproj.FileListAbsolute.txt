@@ -1,0 +1,15 @@
+C:\Users\sdilli589\Downloads\ConsoleApp1\Structure\bin\Debug\net10.0\Structure.exe
+C:\Users\sdilli589\Downloads\ConsoleApp1\Structure\bin\Debug\net10.0\Structure.deps.json
+C:\Users\sdilli589\Downloads\ConsoleApp1\Structure\bin\Debug\net10.0\Structure.runtimeconfig.json
+C:\Users\sdilli589\Downloads\ConsoleApp1\Structure\bin\Debug\net10.0\Structure.dll
+C:\Users\sdilli589\Downloads\ConsoleApp1\Structure\bin\Debug\net10.0\Structure.pdb
+C:\Users\sdilli589\Downloads\ConsoleApp1\Structure\obj\Debug\net10.0\Structure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sdilli589\Downloads\ConsoleApp1\Structure\obj\Debug\net10.0\Structure.AssemblyInfoInputs.cache
+C:\Users\sdilli589\Downloads\ConsoleApp1\Structure\obj\Debug\net10.0\Structure.AssemblyInfo.cs
+C:\Users\sdilli589\Downloads\ConsoleApp1\Structure\obj\Debug\net10.0\Structure.csproj.CoreCompileInputs.cache
+C:\Users\sdilli589\Downloads\ConsoleApp1\Structure\obj\Debug\net10.0\Structure.sourcelink.json
+C:\Users\sdilli589\Downloads\ConsoleApp1\Structure\obj\Debug\net10.0\Structure.dll
+C:\Users\sdilli589\Downloads\ConsoleApp1\Structure\obj\Debug\net10.0\refint\Structure.dll
+C:\Users\sdilli589\Downloads\ConsoleApp1\Structure\obj\Debug\net10.0\Structure.pdb
+C:\Users\sdilli589\Downloads\ConsoleApp1\Structure\obj\Debug\net10.0\Structure.genruntimeconfig.cache
+C:\Users\sdilli589\Downloads\ConsoleApp1\Structure\obj\Debug\net10.0\ref\Structure.dll

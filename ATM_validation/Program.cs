@@ -1,91 +1,127 @@
 ﻿using System;
-class ATM_Validation
+ 
+class Program
 {
-    static public void Main()
+    static void Main(string[] args)
     {
-        // int pin = 4321;
-        // int count =0;
-        // while(count <3){
-        //     Console.Write("Enter your PIN: ");
-        //     int upin = Convert.ToInt32(Console.ReadLine());
-        //     if (pin == upin)
-        //     {
-        //         while(count<3)
-        //         Console.WriteLine("Press 1 to Withdraw");
-        //         Console.WriteLine("Press 2 to Check balance");
-        //         Console.WriteLine("Press 3 to deposit");
-        //         Console.WriteLine("Press 4 to cancel");
-        //         Console.WriteLine();
-        //         Console.WriteLine("Enter the option: ");
-        //         int option = Convert.ToInt32(Console.ReadLine());
-        //         if(option == 1)
-        //         {
-        //             Console.WriteLine("Withdraw Successful...");
-        //         }
-        //         else if(option == 2)
-        //         {
-        //             Console.WriteLine("Your balance is ₹10000");
-        //         }
-        //         else if (option == 3)
-        //         {
-        //             Console.WriteLine("Deposit Successful..");
-        //         }
-        //         else if (option == 4)
-        //         {
-        //             Console.WriteLine("Exited..");
-        //         }
-        //         else
-        //         {
-        //             Console.WriteLine("Invalid option, Exited...");
-        //         }
-
-        //     }
-        //     else
-        //     {
-        //         Console.WriteLine("Invalid PIN number..");
-        //         count+=1;
-        //         if (count == 3)
-        //         {
-        //             Console.WriteLine("Account Locked...");
-        //         }
-        //     }
-        // }
-        int pin = 4321;
-        Console.Write("Enter your PIN number: ");
-        int upin = Convert.ToInt32(Console.ReadLine());
-        if(pin == upin)
+        string name = "";
+        int age = 0;
+        string address = "";
+ 
+        double balance = 0;
+        int transactions = 0;
+ 
+        int choice;
+        do
         {
-            Console.WriteLine("Press 1 to Withdraw");
-            Console.WriteLine("Press 2 to Check balance");
-            Console.WriteLine("Press 3 to deposit");
-            Console.WriteLine("Press 4 to cancel");
-            Console.WriteLine();
-            Console.WriteLine("Enter the option: ");
-            int option = Convert.ToInt32(Console.ReadLine());
-            switch (option)
+            Console.WriteLine("\n MAIN MENU ");
+            Console.WriteLine("1. open Account");
+            Console.WriteLine("2. account (Perform Transactions)");
+            Console.WriteLine("3. quit (Exit)");
+            Console.Write("Enter choice: ");
+            choice = Convert.ToInt32(Console.ReadLine());
+ 
+            switch (choice)
             {
                 case 1:
-                    Console.WriteLine("Withdraw Successful...");
+                    Console.Write("Enter Name: ");
+                    name = Console.ReadLine();
+ 
+                    Console.Write("Enter Age: ");
+                    age = Convert.ToInt32(Console.ReadLine());
+ 
+                    Console.Write("Enter Address: ");
+                    address = Console.ReadLine();
+ 
+                    Console.Write("Enter Initial Balance: ");
+                    balance = Convert.ToDouble(Console.ReadLine());
+ 
+                    Console.WriteLine("Account Created Successfully!");
                     break;
+ 
                 case 2:
-                    Console.WriteLine("Your balance is Rs.10000");
+                    if (name == "")
+                    {
+                        Console.WriteLine("Please open an account first!");
+                        break;
+                    }
+ 
+                    string option;
+                    do
+                    {
+                        Console.WriteLine("\n TRANSACTION MENU ");
+                        Console.WriteLine("deposit");
+                        Console.WriteLine("withdraw");
+                        Console.WriteLine("show");
+                        Console.WriteLine("changename");
+                        Console.WriteLine("quit");
+                        Console.Write("Enter option: ");
+                        option = Console.ReadLine().ToLower();
+ 
+                        switch (option)
+                        {
+                            case "deposit":
+                                Console.Write("Enter amount to deposit: ");
+                                double depositAmount = Convert.ToDouble(Console.ReadLine());
+ 
+                                balance += depositAmount;
+                                transactions++;
+ 
+                                Console.WriteLine("Deposited Successfully!");
+                                break;
+ 
+                            case "withdraw":
+                                Console.Write("Enter amount to withdraw: ");
+                                double withdrawAmount = Convert.ToDouble(Console.ReadLine());
+ 
+                                if (withdrawAmount <= balance)
+                                {
+                                    balance -= withdrawAmount;
+                                    transactions++;
+                                    Console.WriteLine("Withdrawal Successful!");
+                                }
+                                else
+                                {
+                                    Console.WriteLine("Insufficient Balance!");
+                                }
+                                break;
+ 
+                            case "changename":
+                                Console.Write("Enter new name: ");
+                                name = Console.ReadLine();
+                                Console.WriteLine("Name Updated!");
+                                break;
+ 
+                            case "show":
+                                Console.WriteLine("\n ACCOUNT DETAILS ");
+                                Console.WriteLine("Name: " + name);
+                                Console.WriteLine("Balance: ₹" + balance);
+                                Console.WriteLine("Transactions: " + transactions);
+                                break;
+ 
+                            case "quit":
+                                Console.WriteLine("Exiting Transaction Menu...");
+                                break;
+ 
+                            default:
+                                Console.WriteLine("Invalid Option");
+                                break;
+                        }
+ 
+                    } while (option != "quit");
+ 
                     break;
+ 
                 case 3:
-                    Console.WriteLine("Deposit Successful...");
+                    Console.WriteLine("Exiting Application...");
                     break;
-                case 4:
-                    Console.WriteLine("Exited...");
-                    break;
+ 
                 default:
-                    Console.WriteLine("Invalid Option..");
+                    Console.WriteLine("Invalid Choice");
                     break;
             }
-        }
-        else
-        {
-            Console.WriteLine("Invalid PIN number..");
-        }
-        
-
+ 
+        } while (choice != 3);
     }
 }
+ 

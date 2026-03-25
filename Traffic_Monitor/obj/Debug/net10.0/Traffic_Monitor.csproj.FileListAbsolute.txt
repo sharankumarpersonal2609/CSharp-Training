@@ -1,0 +1,15 @@
+C:\Users\sdilli589\Downloads\ConsoleApp1\Traffic_Monitor\bin\Debug\net10.0\Traffic_Monitor.exe
+C:\Users\sdilli589\Downloads\ConsoleApp1\Traffic_Monitor\bin\Debug\net10.0\Traffic_Monitor.deps.json
+C:\Users\sdilli589\Downloads\ConsoleApp1\Traffic_Monitor\bin\Debug\net10.0\Traffic_Monitor.runtimeconfig.json
+C:\Users\sdilli589\Downloads\ConsoleApp1\Traffic_Monitor\bin\Debug\net10.0\Traffic_Monitor.dll
+C:\Users\sdilli589\Downloads\ConsoleApp1\Traffic_Monitor\bin\Debug\net10.0\Traffic_Monitor.pdb
+C:\Users\sdilli589\Downloads\ConsoleApp1\Traffic_Monitor\obj\Debug\net10.0\Traffic_Monitor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sdilli589\Downloads\ConsoleApp1\Traffic_Monitor\obj\Debug\net10.0\Traffic_Monitor.AssemblyInfoInputs.cache
+C:\Users\sdilli589\Downloads\ConsoleApp1\Traffic_Monitor\obj\Debug\net10.0\Traffic_Monitor.AssemblyInfo.cs
+C:\Users\sdilli589\Downloads\ConsoleApp1\Traffic_Monitor\obj\Debug\net10.0\Traffic_Monitor.csproj.CoreCompileInputs.cache
+C:\Users\sdilli589\Downloads\ConsoleApp1\Traffic_Monitor\obj\Debug\net10.0\Traffic_Monitor.sourcelink.json
+C:\Users\sdilli589\Downloads\ConsoleApp1\Traffic_Monitor\obj\Debug\net10.0\Traffic_Monitor.dll
+C:\Users\sdilli589\Downloads\ConsoleApp1\Traffic_Monitor\obj\Debug\net10.0\refint\Traffic_Monitor.dll
+C:\Users\sdilli589\Downloads\ConsoleApp1\Traffic_Monitor\obj\Debug\net10.0\Traffic_Monitor.pdb
+C:\Users\sdilli589\Downloads\ConsoleApp1\Traffic_Monitor\obj\Debug\net10.0\Traffic_Monitor.genruntimeconfig.cache
+C:\Users\sdilli589\Downloads\ConsoleApp1\Traffic_Monitor\obj\Debug\net10.0\ref\Traffic_Monitor.dll

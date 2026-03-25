@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Largestoftwo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fb15273e38ec44cc2ef9ceb6b94ac1abbc33a292")]
 [assembly: System.Reflection.AssemblyProductAttribute("Largestoftwo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Largestoftwo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

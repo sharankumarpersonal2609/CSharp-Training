@@ -1,0 +1,15 @@
+C:\Users\sdilli589\Downloads\ConsoleApp1\Marks_Calculator\obj\Debug\net10.0\Marks_Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sdilli589\Downloads\ConsoleApp1\Marks_Calculator\obj\Debug\net10.0\Marks_Calculator.AssemblyInfoInputs.cache
+C:\Users\sdilli589\Downloads\ConsoleApp1\Marks_Calculator\obj\Debug\net10.0\Marks_Calculator.AssemblyInfo.cs
+C:\Users\sdilli589\Downloads\ConsoleApp1\Marks_Calculator\obj\Debug\net10.0\Marks_Calculator.csproj.CoreCompileInputs.cache
+C:\Users\sdilli589\Downloads\ConsoleApp1\Marks_Calculator\obj\Debug\net10.0\Marks_Calculator.sourcelink.json
+C:\Users\sdilli589\Downloads\ConsoleApp1\Marks_Calculator\bin\Debug\net10.0\Marks_Calculator.exe
+C:\Users\sdilli589\Downloads\ConsoleApp1\Marks_Calculator\bin\Debug\net10.0\Marks_Calculator.deps.json
+C:\Users\sdilli589\Downloads\ConsoleApp1\Marks_Calculator\bin\Debug\net10.0\Marks_Calculator.runtimeconfig.json
+C:\Users\sdilli589\Downloads\ConsoleApp1\Marks_Calculator\bin\Debug\net10.0\Marks_Calculator.dll
+C:\Users\sdilli589\Downloads\ConsoleApp1\Marks_Calculator\bin\Debug\net10.0\Marks_Calculator.pdb
+C:\Users\sdilli589\Downloads\ConsoleApp1\Marks_Calculator\obj\Debug\net10.0\Marks_Calculator.dll
+C:\Users\sdilli589\Downloads\ConsoleApp1\Marks_Calculator\obj\Debug\net10.0\refint\Marks_Calculator.dll
+C:\Users\sdilli589\Downloads\ConsoleApp1\Marks_Calculator\obj\Debug\net10.0\Marks_Calculator.pdb
+C:\Users\sdilli589\Downloads\ConsoleApp1\Marks_Calculator\obj\Debug\net10.0\Marks_Calculator.genruntimeconfig.cache
+C:\Users\sdilli589\Downloads\ConsoleApp1\Marks_Calculator\obj\Debug\net10.0\ref\Marks_Calculator.dll

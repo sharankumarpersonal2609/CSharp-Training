@@ -1,0 +1,15 @@
+C:\Users\sdilli589\Downloads\ConsoleApp1\TRON\bin\Debug\net10.0\TRON.exe
+C:\Users\sdilli589\Downloads\ConsoleApp1\TRON\bin\Debug\net10.0\TRON.deps.json
+C:\Users\sdilli589\Downloads\ConsoleApp1\TRON\bin\Debug\net10.0\TRON.runtimeconfig.json
+C:\Users\sdilli589\Downloads\ConsoleApp1\TRON\bin\Debug\net10.0\TRON.dll
+C:\Users\sdilli589\Downloads\ConsoleApp1\TRON\bin\Debug\net10.0\TRON.pdb
+C:\Users\sdilli589\Downloads\ConsoleApp1\TRON\obj\Debug\net10.0\TRON.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sdilli589\Downloads\ConsoleApp1\TRON\obj\Debug\net10.0\TRON.AssemblyInfoInputs.cache
+C:\Users\sdilli589\Downloads\ConsoleApp1\TRON\obj\Debug\net10.0\TRON.AssemblyInfo.cs
+C:\Users\sdilli589\Downloads\ConsoleApp1\TRON\obj\Debug\net10.0\TRON.csproj.CoreCompileInputs.cache
+C:\Users\sdilli589\Downloads\ConsoleApp1\TRON\obj\Debug\net10.0\TRON.sourcelink.json
+C:\Users\sdilli589\Downloads\ConsoleApp1\TRON\obj\Debug\net10.0\TRON.dll
+C:\Users\sdilli589\Downloads\ConsoleApp1\TRON\obj\Debug\net10.0\refint\TRON.dll
+C:\Users\sdilli589\Downloads\ConsoleApp1\TRON\obj\Debug\net10.0\TRON.pdb
+C:\Users\sdilli589\Downloads\ConsoleApp1\TRON\obj\Debug\net10.0\TRON.genruntimeconfig.cache
+C:\Users\sdilli589\Downloads\ConsoleApp1\TRON\obj\Debug\net10.0\ref\TRON.dll

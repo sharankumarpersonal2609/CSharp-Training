@@ -2,13 +2,20 @@
   <Project Path="Addition/Addition.csproj" />
   <Project Path="Admission_Eligibility/Admission_Eligibility.csproj" />
   <Project Path="ATM_validation/ATM_validation.csproj" />
+  <Project Path="Avalanche/Avalanche.csproj" />
+  <Project Path="Banking_System/Banking_System.csproj" />
   <Project Path="Boolean/Boolean.csproj" />
   <Project Path="Calculator/Calculator.csproj" />
   <Project Path="IQ_Test/IQ_Test.csproj" />
   <Project Path="Largestoftwo/Largestoftwo.csproj" />
+  <Project Path="Marks_Calculator/Marks_Calculator.csproj" />
   <Project Path="NameSpace/NameSpace.csproj" />
+  <Project Path="OOPS/OOPS.csproj" />
+  <Project Path="Practice/Practice.csproj" />
   <Project Path="PrintName/PrintName.csproj" />
+  <Project Path="Structure/Structure.csproj" />
   <Project Path="SuperMarket/SuperMarket.csproj" />
+  <Project Path="Traffic_Monitor/Traffic_Monitor.csproj" />
   <Project Path="TRON/TRON.csproj" />
   <Project Path="Validation/Validation.csproj" />
 </Solution>

@@ -1,0 +1,15 @@
+C:\Users\sdilli589\Downloads\ConsoleApp1\IQ_Test\obj\Debug\net10.0\IQ_Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sdilli589\Downloads\ConsoleApp1\IQ_Test\obj\Debug\net10.0\IQ_Test.AssemblyInfoInputs.cache
+C:\Users\sdilli589\Downloads\ConsoleApp1\IQ_Test\obj\Debug\net10.0\IQ_Test.AssemblyInfo.cs
+C:\Users\sdilli589\Downloads\ConsoleApp1\IQ_Test\obj\Debug\net10.0\IQ_Test.csproj.CoreCompileInputs.cache
+C:\Users\sdilli589\Downloads\ConsoleApp1\IQ_Test\obj\Debug\net10.0\IQ_Test.sourcelink.json
+C:\Users\sdilli589\Downloads\ConsoleApp1\IQ_Test\bin\Debug\net10.0\IQ_Test.exe
+C:\Users\sdilli589\Downloads\ConsoleApp1\IQ_Test\bin\Debug\net10.0\IQ_Test.deps.json
+C:\Users\sdilli589\Downloads\ConsoleApp1\IQ_Test\bin\Debug\net10.0\IQ_Test.runtimeconfig.json
+C:\Users\sdilli589\Downloads\ConsoleApp1\IQ_Test\bin\Debug\net10.0\IQ_Test.dll
+C:\Users\sdilli589\Downloads\ConsoleApp1\IQ_Test\bin\Debug\net10.0\IQ_Test.pdb
+C:\Users\sdilli589\Downloads\ConsoleApp1\IQ_Test\obj\Debug\net10.0\IQ_Test.dll
+C:\Users\sdilli589\Downloads\ConsoleApp1\IQ_Test\obj\Debug\net10.0\refint\IQ_Test.dll
+C:\Users\sdilli589\Downloads\ConsoleApp1\IQ_Test\obj\Debug\net10.0\IQ_Test.pdb
+C:\Users\sdilli589\Downloads\ConsoleApp1\IQ_Test\obj\Debug\net10.0\IQ_Test.genruntimeconfig.cache
+C:\Users\sdilli589\Downloads\ConsoleApp1\IQ_Test\obj\Debug\net10.0\ref\IQ_Test.dll
